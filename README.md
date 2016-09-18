@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #AndroidResideMenu
 ------
 ### 中文说明请点击 [这里][1]
@@ -129,3 +130,6 @@ Email: specialcyci#gmail.com
   [3]: http://dribbble.com/shots/1114754-Social-Feed-iOS7
   [4]: https://github.com/romaonthego/RESideMenu
   [5]: https://github.com/SpecialCyCi/AndroidResideMenu/blob/master/ResideMenuDemo/project.properties
+=======
+# ResideMenu
+>>>>>>> c827463d894a300dec8e53b7619ff60d0785504c
